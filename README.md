@@ -6,7 +6,7 @@ I'm developer focusing on creating applications for the Apple ecosystem (iOS, iP
 - 📱 I’m currently working on Procurity (procurity.app) and Fog
 - 🖥 Swift is my language of focus and choice
 - 🌲 Portland, OR is my home
-- ✈️ I would like to make my way to Seattle or London
+- ✈️ I would like to make my way to Seattle, Boston or London
 - 🏔 I love nature, expecially the mountains
 
 #### Take a peek at my stats 🔎
